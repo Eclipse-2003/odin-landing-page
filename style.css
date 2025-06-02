@@ -84,3 +84,8 @@ button {
   text-align: right;
 }
 
+.call-to-action {
+  display: flex;
+  background-color: #3882F6;
+  justify-content: center;
+}
