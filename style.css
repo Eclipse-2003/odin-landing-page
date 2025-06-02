@@ -89,3 +89,17 @@ button {
   background-color: #3882F6;
   justify-content: center;
 }
+
+.call-to-action .title {
+  color:#F9FAF8
+}
+
+.call-to-action .text {
+  color: #E5E7EB;
+}
+
+.footer {
+  background-color: #1F2937;
+  text-align: center;
+  color:#E5E7EB
+}
