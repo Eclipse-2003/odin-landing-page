@@ -66,6 +66,10 @@ button {
   font-weight: 900;
 }
 
+.widgets {
+  display: flex;
+}
+
 .quote-section {
   background-color: #E5E7EB;
 }
@@ -80,6 +84,3 @@ button {
   text-align: right;
 }
 
-.widgets {
-  display: flex;
-}
