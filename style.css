@@ -60,6 +60,26 @@ button {
   align-items: center;
 }
 
+.box-section .title {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+}
+
+.quote-section {
+  background-color: #E5E7EB;
+}
+
+.quote-section .text {
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937;
+}
+
+.quote-section .quote {
+  text-align: right;
+}
+
 .widgets {
   display: flex;
 }
