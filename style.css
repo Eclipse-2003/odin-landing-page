@@ -36,8 +36,15 @@ a {
 
 .hero {
   display: flex;
+  justify-content: space-between;
   background-color: #1F2937;
   padding: 32px 20% 72px;
+}
+
+.hero-img {
+  width: 400px;
+  height: 200px;
+  background-color: #E5E7EB;
 }
 
 .hero .title {
