@@ -130,7 +130,6 @@ button {
 
 .call-to-action {
   display: flex;
-  flex: 1; /* check back to see if i need */
   background-color: #3882F6;
   justify-content: space-around;
   align-items: center;
