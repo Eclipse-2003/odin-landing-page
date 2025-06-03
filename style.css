@@ -93,8 +93,10 @@ button {
   flex: 1; /* check back to see if i need */
   background-color: #3882F6;
   justify-content: space-around;
-  margin: 16px 20%;
+  align-items: center;
+  margin: 32px 20%;
   border-radius: 8px;
+  padding: 20px;
 }
 
 .call-to-action .title {
@@ -103,6 +105,13 @@ button {
 
 .call-to-action .text {
   color: #E5E7EB;
+}
+
+.call-to-action button {
+  border-radius: 8px;
+  border: 1px solid #F9FAF8;
+  padding: 12px 36px;
+  cursor: pointer;
 }
 
 .footer {
