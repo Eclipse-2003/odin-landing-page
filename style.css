@@ -90,8 +90,11 @@ button {
 
 .call-to-action {
   display: flex;
+  flex: 1; /* check back to see if i need */
   background-color: #3882F6;
-  justify-content: center;
+  justify-content: space-around;
+  margin: 16px 20%;
+  border-radius: 8px;
 }
 
 .call-to-action .title {
