@@ -104,12 +104,12 @@ button {
   align-items: center;
   flex-direction: column;
   padding: 20px;
-  width: 150px;
+  width: 175px;
 }
 
 .card-img {
-  width: 150px;
-  height: 150px;
+  width: 175px;
+  height: 175px;
   outline: 3px solid #3882F6;
   border-radius: 8px;
   overflow: hidden;
