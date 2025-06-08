@@ -41,12 +41,12 @@ a {
   background-color: #1F2937;
   padding: 32px 20%;
   padding-bottom: 92px;
-  gap: 10px;
+  gap: 30px;
 }
 
 .hero-img {
-  width: 450px;
-  height: 250px;
+  width: 1400px;
+  height: 350px;
   background-color: #E5E7EB;
 }
 
